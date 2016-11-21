@@ -1,1 +1,2 @@
-# Unity_p-POC
+# Proof of concept - Unity scenary
+## Interactive experience 
